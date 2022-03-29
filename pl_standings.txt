@@ -1,0 +1,20 @@
+1:Manchester City
+2:Liverpool
+3:Chelsea
+4:Arsenal
+5:Tottenham Hotspur
+6:Manchester United
+7:West Ham United
+8:Wolverhampton Wanderers
+9:Aston Villa
+10:Leicester City
+11:Southampton
+12:Crystal Palace
+13:Brighton and Hove Albion
+14:Newcastle United
+15:Brentford
+16:Leeds United
+17:Everton
+18:Watford
+19:Burnley
+20:Norwich City
